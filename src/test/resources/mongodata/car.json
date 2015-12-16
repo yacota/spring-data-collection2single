@@ -1,0 +1,4 @@
+[{
+    "_id":{"$numberLong":"1"},
+    "engine":[ {"component" : {"_id":"toyota"}, "assembled": {"$date":"2014-07-25T14:48:08.000+0200"}}, {"component" : {"_id":"porsche"}, "assembled": {"$date":"2015-07-25T14:48:08.000+0200"}}]
+}]
