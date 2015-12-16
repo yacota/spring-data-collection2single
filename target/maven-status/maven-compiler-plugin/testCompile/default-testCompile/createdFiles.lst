@@ -1,0 +1,3 @@
+hello/repositories/AbstractCarRepositoryTest.class
+hello/repositories/CarRepositoryTest.class
+hello/repositories/CarRepositoryWithCustomMappingMongoConverterTest.class

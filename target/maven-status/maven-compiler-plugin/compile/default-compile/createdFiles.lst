@@ -1,0 +1,17 @@
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$4.class
+hello/model/Engine.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$2.class
+hello/model/Car.class
+hello/model/MadeBy.class
+hello/repositories/CarWriteRepository.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$1.class
+proposal/MongoDbConfiguration.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$ConverterAwareSpELExpressionParameterValueProvider.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter.class
+hello/Application.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$MongoDbPropertyValueProvider.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$NestedDocument.class
+hello/repositories/CarRepository.class
+hello/model/CarWrite.class
+hello/provider/CollectionNameProvider.class
+org/springframework/data/mongodb/core/convert/CustomMappingMongoConverter$3.class

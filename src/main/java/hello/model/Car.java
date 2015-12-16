@@ -6,11 +6,13 @@
 package hello.model;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  * @author jllach
  */
+@Document(collection = "#{@collectionNameProvider.getName('read')}")
 public class Car {
     @Id public Long id;
-    public MadeBy<Engine>  engine;    
+    public MadeBy<Engine>  engine;
 }
